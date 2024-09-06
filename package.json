@@ -19,14 +19,14 @@
     "axios": "^0.27.2",
     "dotenv": "^16.0.3",
     "ethers": "^5.6.9",
-    "joi": "^17.4.2",
+    "joi": "^17.7.1",
     "morgan": "^1.10.0",
     "mysql2": "^2.3.3",
     "node-cron": "^3.0.2",
-    "sequelize": "^6.25.5",
+    "sequelize": "^6.33.0",
     "underscore": "^1.13.1",
     "validator": "^13.7.0",
-    "web3": "^1.7.4"
+    "web3": "^4.0.1"
   },
   "jest": {
     "verbose": true,
